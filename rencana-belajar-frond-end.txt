@@ -1,0 +1,6 @@
+rencana belajar frond-end
+
+belajar html 5
+belajar css 3
+belajar js
+membuat portofolio memakai tailwind css mengikuti WPU
