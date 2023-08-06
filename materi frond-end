@@ -1,4 +1,4 @@
--html
--css
+-html (html 5)
+-css (css 3)
 -javascript
 framework = css( tailwind,etc), js(alpin.js, flowbit.js,etc)
